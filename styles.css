@@ -19,7 +19,7 @@ body{
   margin-bottom: -20px;
   text-align: center;
   font-weight: 900;
-  font-size: 75px;
+  font-size: 60px;
   text-shadow: 5px 4px 15px #07f7f7;
   color: black;
 }
@@ -29,7 +29,6 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    /* border: 2px solid whitesmoke; */
     text-align: center;
     margin-top: 50px;
     border-radius: 20px;
@@ -87,8 +86,6 @@ body{
 
 #grpTime h3{
     margin-top: 10px;
-    /* color: aliceblue; */
-    /* text-align: center; */
 }
 
 #timeamt{
@@ -108,7 +105,6 @@ body{
     border: 4px solid rgba(128, 128, 128, 0.707);
     border-radius: 5px;
     outline: none;
-
 }
 
 #timeto{
